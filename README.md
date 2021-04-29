@@ -1,2 +1,1 @@
-# Quizzler
-"# Quizzler-Flutter" 
+# Quizzler-Flutter
